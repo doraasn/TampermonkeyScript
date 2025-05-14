@@ -1,2 +1,2 @@
 # TampermonkeyScript
-Config files for my GitHub profile.
+存储自定义的油猴脚本。
